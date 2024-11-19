@@ -1,16 +1,19 @@
-## Hi there 👋
+# Bienvenidos a mi página de información personal 
+# Welcome to this personal info page 
+![imagen](Belleza.jpeg) 
 
+ ## Position and contact 
 
-**abedgar0505/abedgar0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Alumno de computación y robótica en Baza 
+  - Secondary School 
+  - abedgar0505@g.educaand.es 
+  ## Personal interest 
+ 
+  - I like games 
+  - I also like cats 
+  - I love games about cats 
+   -Oh, and I love listen to music btw 
 
-Here are some ideas to get you started:
+   ## Github team 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   https://github.com/abedgar0505
