@@ -15,5 +15,7 @@
    -Oh, and I love listen to music btw 
 
    ## Github team 
+   <!-- No es necesario poner ningún equipo porque no gestionas ninguno
+   Además, este enlace es de tu perfil><-->
 
    https://github.com/abedgar0505
