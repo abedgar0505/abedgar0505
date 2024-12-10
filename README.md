@@ -1,6 +1,6 @@
 # Bienvenidos a mi página de información personal 
 # Welcome to this personal info page 
-![imagen](Belleza.jpeg) 
+![imagen](IMG_8164.jpg) 
 
  ## Position and contact 
 
