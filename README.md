@@ -12,7 +12,7 @@
   - I like games 
   - I also like cats 
   - I love games about cats 
-   -Oh, and I love listen to music btw 
+  - Oh, and I love listen to music btw 
 
    ## Github team 
    <!-- No es necesario poner ningún equipo porque no gestionas ninguno
